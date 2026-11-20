@@ -37,3 +37,4 @@ Vasquez Aliaga, Joaquin Luciano · Vasquez Aguilera, Rosa Victoria · Mamani Seg
 
 
 Revisado por Joaquin Vasquez Aliaga – Líder de Proyecto
+# Revisado por Rosa Vasquez Aguilera – Arquitecta de Software
