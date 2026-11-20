@@ -32,3 +32,5 @@ Característica: Descargar el reporte del viaje en PDF
     Y el servidor no responde al generar el PDF
     Cuando el comerciante presiona "Descargar reporte"
     Entonces la aplicación muestra el mensaje "No se pudo generar el reporte. Intente nuevamente"
+
+    # Revisado por Thiago Carvalho Castle – Analista de Procesos
