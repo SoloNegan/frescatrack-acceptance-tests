@@ -24,3 +24,4 @@ Característica: Alerta en menos de 10 segundos
     Dado que 200 viajes activos registran temperaturas fuera de rango en el mismo minuto
     Cuando el sistema procesa las lecturas
     Entonces cada transportista recibe su alerta en un tiempo menor o igual a 10 segundos
+# Revisado por Rodrigo Mamani Segovia – Director de Tecnología
