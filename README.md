@@ -34,3 +34,6 @@ Total: 12 archivos `.feature`, 30 escenarios y 50 casos de prueba al expandir lo
 ## Equipo LogiFresh Solutions
 
 Vasquez Aliaga, Joaquin Luciano · Vasquez Aguilera, Rosa Victoria · Mamani Segovia, Rodrigo Felipe · Medina Mamani, Jean Franco · More Galarreta, Cristopher Josue · Carvalho Castle, Thiago
+
+
+Revisado por Joaquin Vasquez Aliaga – Líder de Proyecto
