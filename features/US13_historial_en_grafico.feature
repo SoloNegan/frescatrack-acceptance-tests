@@ -31,3 +31,4 @@ Característica: Historial de temperatura del viaje en un gráfico
     Dado que el viaje no tiene lecturas registradas
     Cuando el comerciante abre el historial del viaje
     Entonces la aplicación muestra el mensaje "Este viaje no tiene lecturas registradas"
+    #Revisado por Cristopher More Galarreta - Analista de Calidad 
